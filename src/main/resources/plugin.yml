@@ -1,0 +1,7 @@
+name: Pratice
+version: '${project.version}'
+main: me.paul90317.pratice.Pratice
+api-version: 1.18
+authors: [ paul90317 ]
+description: just practice
+website: https://github.com/paul90317
